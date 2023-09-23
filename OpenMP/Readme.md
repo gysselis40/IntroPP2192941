@@ -8,4 +8,17 @@ Para dimensionalidades pequeñas se obtuvieron valores muy pequeños al ejecutar
 
 ![texto_alternativo](https://github.com/gysselis40/IntroPP2192941/blob/main/OpenMP/Imagenes/Imagen1.png)
 
+Para valores más grandes se obtuvo lo siguiente: 
+![texto_alternativo](https://github.com/gysselis40/IntroPP2192941/blob/main/OpenMP/Imagenes/Imagen2.png)
+
+Secuencial: 
+![texto_alternativo](https://github.com/gysselis40/IntroPP2192941/blob/main/OpenMP/Imagenes/Imagen3.png)
+
+Paralelo: 
+![texto_alternativo](https://github.com/gysselis40/IntroPP2192941/blob/main/OpenMP/Imagenes/Imagen4.png)
+
+
+
+
+
 
