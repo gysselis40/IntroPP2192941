@@ -6,4 +6,6 @@
 - Paralelizado: Este código es una versión paralelizada del código anterior que utiliza la librería OpenMP para acelerar el cálculo. El bucle exterior se ha paralelizado para que los hilos trabajen en diferentes iteraciones del bucle y aceleren el cálculo.
 Para dimensionalidades pequeñas se obtuvieron valores muy pequeños al ejecutarse sobre GUANE:
 
+![texto_alternativo](https://github.com/gysselis40/IntroPP2192941/blob/main/OpenMP/Imagenes/Imagen1.png)
+
 
