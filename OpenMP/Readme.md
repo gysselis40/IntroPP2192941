@@ -6,6 +6,20 @@
 **Paralelizado:** Este código es una versión paralelizada del código anterior que utiliza la librería OpenMP para acelerar el cálculo. El bucle exterior se ha paralelizado para que los hilos trabajen en diferentes iteraciones del bucle y aceleren el cálculo.
 Para dimensionalidades pequeñas se obtuvieron valores muy pequeños al ejecutarse sobre GUANE:
 
+Para compilarlo los diferentes archivos, debe tener en cuenta estos comandos: 
+
+Secuencial: 
+1) gcc -std=c99 -Wall multiplyMatrix.c -o multiplyMatrix
+2) ./multiplyMatrix
+
+
+Paralelo: 
+1) gcc -std=c99 -Wall -fopenmp omp_multiplyMatrix.c -o omp_multiplyMatrix
+2) ./omp_multiplyMatrix
+
+
+## Resultados
+
 ![texto_alternativo](https://github.com/gysselis40/IntroPP2192941/blob/main/OpenMP/Imagenes/Imagen1.png)
 
 Para valores más grandes se obtuvo lo siguiente: 
