@@ -20,7 +20,7 @@ Paralelo:
 
 ## Resultados
 - Para valores pequeños:
-  
+
 ![texto_alternativo](https://github.com/gysselis40/IntroPP2192941/blob/main/OpenMP_2/Im%C3%A1genes/valores%20peque%C3%B1os.png)
 
 
