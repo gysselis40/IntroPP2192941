@@ -1,3 +1,13 @@
+//Objetivo: Este código es una versión paralelizada del
+//código anterior que utiliza la librería OpenMP para acelerar el cálculo. 
+//El bucle exterior se ha paralelizado para que los hilos trabajen en diferentes 
+//iteraciones del bucle y aceleren el cálculo.
+
+//Modificado: 22 Septiembre 2023
+
+//Autor: Gysselis Vásquez
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/time.h>
