@@ -23,6 +23,9 @@ Paralelo:
 - 
 ![texto_alternativo](https://github.com/gysselis40/IntroPP2192941/blob/main/OpenMP_2/Im%C3%A1genes/valores%20peque%C3%B1os.png)
 
+El rendimiento de un código paralelo generalmente mejora a medida que el tamaño del problema aumenta. Cuando las matrices son pequeñas, es posible que los beneficios de la paralelización no sean tan evidentes debido a la naturaleza del problema y la cantidad limitada de trabajo que se puede distribuir entre los hilos. Puede existir una sobrecarga en la administración de los hilos para esta tarea tan poco compleja. 
+
+
 - Para valores más grandes se obtuvo lo siguiente: 
 
 Secuencial: 
