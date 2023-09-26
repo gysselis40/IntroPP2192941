@@ -1,3 +1,12 @@
+//Objetivo: Este código toma las dimensiones de dos matrices como entrada 
+//y genera dos matrices aleatorias. Luego, realiza la multiplicación 
+//de matrices y muestra la matriz resultante junto con el tiempo de ejecución.
+
+
+//Modificado: 22 September 2023
+
+//Autor: Gysselis Vásquez
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/time.h>
