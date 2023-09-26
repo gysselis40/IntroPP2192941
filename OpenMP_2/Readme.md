@@ -19,19 +19,23 @@ Paralelo:
 
 
 ## Resultados
-- Para valores pequeños: 
+- Para valores pequeños:
+- 
 ![texto_alternativo](https://github.com/gysselis40/IntroPP2192941/blob/main/OpenMP_2/Im%C3%A1genes/valores%20peque%C3%B1os.png)
 
 - Para valores más grandes se obtuvo lo siguiente: 
 
 Secuencial: 
+
 ![texto_alternativo](https://github.com/gysselis40/IntroPP2192941/blob/main/OpenMP_2/Im%C3%A1genes/val%20alto%20no.png)
+
 
 ![texto_alternativo](https://github.com/gysselis40/IntroPP2192941/blob/main/OpenMP_2/Im%C3%A1genes/result%20alto%20no.png)
 
 Paralelo: 
 
 ![texto_alternativo](https://github.com/gysselis40/IntroPP2192941/blob/main/OpenMP_2/Im%C3%A1genes/alto%20par.png)
+
 
 ![texto_alternativo](https://github.com/gysselis40/IntroPP2192941/blob/main/OpenMP_2/Im%C3%A1genes/result%20alto%20par.png)
 
